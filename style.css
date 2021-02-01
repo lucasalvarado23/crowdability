@@ -1,0 +1,34 @@
+.jumbotron{
+    background-image: url("images/background.png");
+    background-repeat: no-repeat; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 600px;
+}
+
+#classified{
+    width: 30%;
+    height: auto;
+}
+
+#book{
+    width: 70%;
+    height: auto;
+}
+
+.red{
+    color: red;
+    text-align: center;
+}
+
+.display-4{
+    color: #FFFFFF;
+    font-size: calc(100% + 1.5vw + 1.5vh);
+}
+
+.sub{
+    color: #FFFFFF;
+    font-size: calc(100% + 1vw + 1vh);
+}
